@@ -1,0 +1,9 @@
+dist/*.zip
+!dist/SHA256SUMS.txt
+build/frames/
+release/qa/
+release/qa-final/
+*.zip
+*.mp4
+!release/xusong-actions-douyin-preview.mp4
+!release/xusong-actions-douyin-silent.mp4
